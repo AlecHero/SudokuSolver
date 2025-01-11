@@ -8,7 +8,7 @@
 - Complete visual overhaul
 - Add playable mode
 
-# New Projects
+# New Sub-Projects
 - Generalize the approaches to work for 2x2s 3x3x3s 4x4x4x4s etc.
 - Create a "random" search solver
 - Create a sudoku generator using both/either the "random" search solver or the logic solvers
